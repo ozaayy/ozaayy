@@ -1,53 +1,53 @@
 # Ozan Ayyıldız
 
-Matematiksel mühendislik alanında eğitim aldım. Şu an derin öğrenme uygulamaları ve veri odaklı iş çözümleri üzerinde çalışıyorum.
-
-MBA sürecinde fark ettiğim bir şey var: çoğu "business problem" aslında bir optimizasyon problemi. Bunu her iki taraftan da çözebilmek işimi kolaylaştırıyor.
+I leverage my foundation in Mathematical Engineering to build advanced deep learning and data-driven models. Having pursued an MBA, I’ve realized that most business hurdles are essentially optimization tasks. My ability to approach these problems from both a technical and a strategic perspective significantly enhances my problem-solving efficiency.
 
 ---
 
-## Şu an üzerinde çalıştıklarım
+## What I'm currently working on
 
-- **Talep Tahmini** — Zaman serisi modelleri ile perakende envanter optimizasyonu  
-- **NLP / Transformers** — Metin sınıflandırma ve özetleme üzerine deneyler  
-- **Karar Modellemesi** — MBA projelerinden gelen operasyonel veriyi ML ile analiz etmek
+- **Demand Forecasting** — Retail inventory optimization with time series models
+- **NLP / Transformers** — Experiments on text classification and summarization
+- **Decision Modeling** — Analyzing operational data from MBA projects with ML
 
 ---
 
-## Teknoloji yığını
+## Tech stack
 
 ```
-Python       ████████████░░  Günlük kullanım
-PyTorch      ████████░░░░░░  Deep learning projeleri
-scikit-learn █████████░░░░░  Klasik ML pipeline
-Swift        █████░░░░░░░░░  iOS geliştirme (hobi seviye)
-SQL          ███████░░░░░░░  Veri sorgulama ve analiz
+Python       ████████████░░  Daily Use
+PyTorch      ████████░░░░░░  Deep learning projects
+scikit-learn █████████░░░░░  Classic ML pipeline
+Swift        █████████░░░░░  iOS development 
+SQL          █████████░░░░░  Data Query and Analysis
 ```
 
 ---
 
-## Öne çıkan projeler
+## Featured projects
 
 ### [Store Item Demand Forecasting](https://github.com/ozaayy/Store-Item-Demand-Forecasting-Project)
-50 ürün, 10 mağaza, 5 yıllık satış verisi. Birkaç farklı model denedim (LightGBM, Prophet, LSTM) ve sonuçları karşılaştırdım. Karar vermek düşündüğümden zor çıktı.
+50 products, 10 stores, 5 years of sales data. I tried several different models (LightGBM, Prophet, LSTM) and compared the results. Making a decision turned out to be harder than I expected.
 
 `Python` `LightGBM` `Time Series` `Forecasting`
 
 ---
 
-## Geçmiş
+## Past
 
-- 📐 **Matematiksel Mühendislik** — Temel: optimizasyon, istatistik, sayısal yöntemler  
-- 🎓 **Global MBA** — Strateji, operasyon yönetimi, karar analizi  
-- 🤖 **Deep Learning** — PyTorch ile CV ve NLP projeleri
+- 📐 **Mathematical Engineering** — Fundamentals: optimization, statistics, quantitative methods
+- 🎓 **Global MBA** — Strategy, operations management, decision analysis
+- 🤖 **Deep Learning** — CV and NLP projects with PyTorch
 
 ---
 
-## İletişim
+## Contact
 
 [LinkedIn](https://www.linkedin.com/in/ozaayy) · [ozanayildiz@gmail.com](mailto:ozanayildiz@gmail.com)
 
-Proje işbirlikleri veya teknik tartışmalar için ulaşabilirsiniz.
+[Personal Website](https://www.ozanayyildiz.com)
+
+You can contact us for project collaborations or technical discussions.
 
 ---
 
