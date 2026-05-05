@@ -47,7 +47,7 @@ SQL          █████████░░░░░  Data Query and Analysis
 
 [Personal Website](https://www.ozanayyildiz.com) · [www.ozanayildiz.com]((https://www.ozanayyildiz.com))
 
-You can contact us for project collaborations or technical discussions.
+You can contact with me for project collaborations or technical discussions.
 
 ---
 
