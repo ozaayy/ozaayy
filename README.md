@@ -45,7 +45,7 @@ SQL          █████████░░░░░  Data Query and Analysis
 
 [LinkedIn](https://www.linkedin.com/in/ozaayy) · [ozanayildiz@gmail.com](mailto:ozanayildiz@gmail.com)
 
-[Personal Website](https://www.ozanayyildiz.com)
+[Personal Website](https://www.ozanayyildiz.com) · [www.ozanayildiz.com]((https://www.ozanayyildiz.com))
 
 You can contact us for project collaborations or technical discussions.
 
